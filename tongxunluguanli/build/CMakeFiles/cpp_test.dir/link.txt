@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/cpp_test.dir/main.cpp.o CMakeFiles/cpp_test.dir/exercise/basic.cpp.o CMakeFiles/cpp_test.dir/exercise/clamb.cpp.o CMakeFiles/cpp_test.dir/exercise/consider.cpp.o CMakeFiles/cpp_test.dir/exercise/core.cpp.o CMakeFiles/cpp_test.dir/exercise/middle.cpp.o CMakeFiles/cpp_test.dir/exercise/swap.cpp.o  -o cpp_test 

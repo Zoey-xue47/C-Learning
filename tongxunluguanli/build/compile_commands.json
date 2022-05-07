@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/main.cpp.o -c /home/zoey/tmp/main.cpp",
+  "file": "/home/zoey/tmp/main.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/basic.cpp.o -c /home/zoey/tmp/exercise/basic.cpp",
+  "file": "/home/zoey/tmp/exercise/basic.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/clamb.cpp.o -c /home/zoey/tmp/exercise/clamb.cpp",
+  "file": "/home/zoey/tmp/exercise/clamb.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/consider.cpp.o -c /home/zoey/tmp/exercise/consider.cpp",
+  "file": "/home/zoey/tmp/exercise/consider.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/core.cpp.o -c /home/zoey/tmp/exercise/core.cpp",
+  "file": "/home/zoey/tmp/exercise/core.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/middle.cpp.o -c /home/zoey/tmp/exercise/middle.cpp",
+  "file": "/home/zoey/tmp/exercise/middle.cpp"
+},
+{
+  "directory": "/home/zoey/tmp/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/cpp_test.dir/exercise/swap.cpp.o -c /home/zoey/tmp/exercise/swap.cpp",
+  "file": "/home/zoey/tmp/exercise/swap.cpp"
+}
+]
